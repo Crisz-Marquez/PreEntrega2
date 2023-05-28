@@ -11,9 +11,13 @@ body {
 
 .nav__service-tittle {
     font-weight: 600;
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #1166c7;
     text-shadow: 0px 0px 5px rgb(3, 73, 177);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .nav__service-tittle:hover {
@@ -105,10 +109,9 @@ body {
 .main__section__text {
     margin-top: 50px;
     margin-bottom: 50px;
-    padding-right: 40px;
-    padding-left: 40px ;
-}
 
+}
+ 
 .main__section__info p {
     font-size: 1.2rem;
 }
@@ -140,5 +143,6 @@ body {
 }   
 
 .footer__div__info p {
+    font-size: 1.2rem;
 }
 /* Fin - Footer */
