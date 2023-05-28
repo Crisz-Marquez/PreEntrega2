@@ -29,7 +29,7 @@ body {
     display: inline-block;
     color: white;
     text-shadow: 0px 0px 5px rgb(122, 122, 122);
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-right: 20px;
     padding: 2px;
 }
@@ -146,3 +146,55 @@ body {
     font-size: 1.2rem;
 }
 /* Fin - Footer */
+
+
+/* Custom CSS - Turnos */
+
+.main__turnos {
+    background-color: #01172F;
+}
+
+.main__form {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.form__person {
+    background-color: #012244;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 1px black;
+}
+
+.tittle-person {
+    text-shadow: 0px 0px 20px white;
+}
+
+.form-label {
+    font-size: 1.2rem;
+}
+
+.form-control {
+    border: 3px solid rgb(1, 1, 58);
+    box-shadow: 0px 0px 10px 0px rgb(3, 2, 32);
+}
+
+.text-tarea {
+    min-height: 100px;
+}
+
+.form__product {
+    background-color: #012244;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px 1px black;
+}
+
+.tittle-product {
+    text-shadow: 0px 0px 20px white;
+}
+
+/* Fin - Custom CSS - Turnos */
