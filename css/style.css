@@ -170,20 +170,17 @@ body {
 }
 
 .tittle-person {
-    text-shadow: 0px 0px 20px white;
+    text-shadow: 0px 0px 50px white;
 }
 
 .form-label {
     font-size: 1.2rem;
+    text-shadow: 0px 0px 40px white;
 }
 
 .form-control {
     border: 3px solid rgb(1, 1, 58);
     box-shadow: 0px 0px 10px 0px rgb(3, 2, 32);
-}
-
-.text-tarea {
-    min-height: 100px;
 }
 
 .form__product {
@@ -194,7 +191,7 @@ body {
 }
 
 .tittle-product {
-    text-shadow: 0px 0px 20px white;
+    text-shadow: 0px 0px 40px white;
 }
 
 /* Fin - Custom CSS - Turnos */
