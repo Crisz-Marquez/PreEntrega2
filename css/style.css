@@ -1,0 +1,23 @@
+.main__section__principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+    margin: 0 auto;
+    height:  94vh;
+}
+
+.main__section__principal h2{
+
+}
+
+.main__section__principal h3 {
+
+}
+
+.main__section__principal p {
+
+}
+
